@@ -118,12 +118,12 @@ export const socials = [
   {
     label: "Discord",
     icon: "TelegramIcon",
-    href: "https://t.me/cubdefi"
+    href: "https://t.me/samidbangkit"
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/financeleo",
+    href: "https://twitter.com/samidbangkit",
   },
 ];
 
