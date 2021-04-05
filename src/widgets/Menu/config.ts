@@ -120,11 +120,6 @@ export const socials = [
     icon: "TelegramIcon",
     href: "https://t.me/samidbangkit"
   },
-  {
-    label: "Twitter",
-    icon: "TwitterIcon",
-    href: "https://twitter.com/samidbangkit",
-  },
 ];
 
 export const MENU_HEIGHT = 64;

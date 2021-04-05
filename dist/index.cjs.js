@@ -2120,11 +2120,6 @@ var socials = [
         icon: "TelegramIcon",
         href: "https://t.me/samidbangkit"
     },
-    {
-        label: "Twitter",
-        icon: "TwitterIcon",
-        href: "https://twitter.com/samidbangkit",
-    },
 ];
 var MENU_HEIGHT = 64;
 var MENU_ENTRY_HEIGHT = 48;
