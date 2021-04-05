@@ -2105,7 +2105,7 @@ var socials = [
     {
         label: "Discord",
         icon: "TelegramIcon",
-        href: "https://t.me/samidbangkit"
+        href: "https://t.me/samidbangkit",
     },
 ];
 var MENU_HEIGHT = 64;

@@ -118,7 +118,7 @@ export const socials = [
   {
     label: "Discord",
     icon: "TelegramIcon",
-    href: "https://t.me/samidbangkit"
+    href: "https://t.me/samidbangkit",
   },
 ];
 
